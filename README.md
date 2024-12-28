@@ -1,4 +1,4 @@
-# PyQT Tutorials For All Software Engineer and Professional
+# PyQT Tutorials For Software Engineer and Professional
 ----
 ## 1.Setup the envirnment:
 * Run the following command in command promot with administrator access 
