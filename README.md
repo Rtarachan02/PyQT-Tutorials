@@ -1,4 +1,10 @@
 # PyQT Tutorials For All Software Engineer and Professional
 ----
 ## 1.Setup the envirnment:
-* s
+* Run the following command in command promot with administrator access 
+    * ```bash
+      pip install PyQt6
+      ```
+    * ```bash
+      pip install PyQt6
+      ```
