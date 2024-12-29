@@ -15,6 +15,6 @@
     ```
 * Now create a design and save this in the working folder, then run this command
   * ```bash
-   pyuic5 -x filename.ui -o filename.py
-   ```
+    pyuic5 -x filename.ui -o filename.py
+    ```  
 * Now fix this generated script and write codes as per your requirement.
