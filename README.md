@@ -6,5 +6,5 @@
       pip install PyQt6
       ```
     * ```bash
-      pip install PyQt6
+      pip install PyQt-tools
       ```
