@@ -27,9 +27,7 @@ class MainWindow(QMainWindow):
 
     def onButtonClick(self):
         print("Button Clicked..")
-
-
-
+        
 if __name__=="__main__":
     app=QApplication(sys.argv)
     window=MainWindow()

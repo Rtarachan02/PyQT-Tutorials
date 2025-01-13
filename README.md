@@ -3,7 +3,7 @@
 ## 1.Setup the envirnment:
 * Run the following command in command promot with administrator access 
     * ```bash
-      pip install PyQt6
+      pip install PyQt6/PyQt5
       ```
     * ```bash
       pip install PyQt-tools
@@ -18,3 +18,4 @@
     pyuic5 -x filename.ui -o filename.py
     ```  
 * Now fix this generated script and write codes as per your requirement.
+
